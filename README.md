@@ -16,7 +16,6 @@ Setup is fairly simple for people who are good with technology. You will need a 
 6. Click `Settings` at the top and tick `Minimize to tray` and `Start minimized`.
 ![img4](https://i.netskycommunity.me/yq55k.png)
 7. Click `Exit` and reopen it. It should automatically start minimized to the task tray. Click the keyboard icon in the task tray to reopen it.
-![img5](https://i.netskycommunity.me/mqi6j.png)
 8. Plug in your second keyboard if you have not already.
 9. Under `Macros` click `New`.
 ![img6](https://i.netskycommunity.me/sw5qr.png)
